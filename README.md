@@ -9,7 +9,7 @@ Hi, I'm Priyam Srivastava!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" height="250"/>
 
 
 ```
