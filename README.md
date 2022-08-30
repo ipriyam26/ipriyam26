@@ -10,7 +10,7 @@ Hi, I'm Priyam Srivastava!
 </p>
 
 <img align="left" src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
+
 
 ```
 ipriyam26@github
@@ -23,7 +23,7 @@ ipriyam26@github
 💖 In a complicated Python
 🎵 Love Hip hop, lofi, and soft music
 ```
-<hr>
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ipriyam26.visitor&left_color=green&right_color=red)
                 
