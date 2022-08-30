@@ -98,7 +98,7 @@ ipriyam26@github
 | ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ipriyam26&theme=algolia)                    | 
     
 
-|                                                                                                      Priyam's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipriyam26&langs_count=8&theme=algolia&layout=compact) |
 
