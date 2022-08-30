@@ -26,7 +26,8 @@ ipriyam26@github
 ```
 <hr>
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ipriyam26.visitor&left_color=green&right_color=red)
+                
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
