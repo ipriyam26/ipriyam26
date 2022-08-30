@@ -101,15 +101,22 @@ ipriyam26@github
 ## GitHub Stats
 
 
-|                                                                     Priyam's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Priyams's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ipriyam26&theme=react-dark&hide_border=true&area=true) |
-| ![Priyams's github stats](https://github-readme-stats.vercel.app/api?username=ipriyam26&show_icons=true&theme=algolia)              | 
-| ![Priyams's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ipriyam26&theme=algolia)                    | 
+----
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=ipriyam26&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ipriyam26)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ipriyam26&theme=material-palenight)](https://github.com/Elanza-48)
+</div>
+
+----
     
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ipriyam26&theme=react-dark&hide=jupyter%20notebook,lua,css)
-
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 
 
