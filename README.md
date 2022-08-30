@@ -68,7 +68,6 @@ ipriyam26@github
 ### 💻 Software and Tools
 
 <p>
-
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
@@ -91,16 +90,14 @@ ipriyam26@github
 ## GitHub Stats
 
 
-|                                                                     Vishal's Stats                                                                     |
+|                                                                     Priyam's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ipriyam26&theme=react-dark&hide_border=true&area=true) |
 | ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=ipriyam26&show_icons=true&theme=algolia)              | 
 | ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ipriyam26&theme=algolia)                    | 
     
 
-|                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipriyam26&langs_count=8&theme=algolia&layout=compact) |
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipriyam26&langs_count=8&theme=algolia&layout=compact) |
 
 
 
